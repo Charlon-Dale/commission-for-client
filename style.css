@@ -1,0 +1,100 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(325deg, rgba(2,0,36,1) 0%, rgba(60,128,105,1) 39%, rgba(0,212,255,1) 100%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5em;
+    text-align: justify;
+    margin: 0px 150px 0px 150px;
+    color: #fff;
+}
+.title-page {
+    text-align:center;
+    font-size:50px;
+}
+.decor-1 {
+    text-decoration: overline underline red dashed 5px ;
+}
+h3,h5 {
+    font-size: 20px;
+}
+
+span {
+    font-size: 15px;
+}
+
+.decor-2 {
+    text-decoration-line:line-through;
+    text-decoration-color:blue;
+    text-decoration-style: wavy;
+}
+
+.spacing-1, .spacing-2, .spacing-3 {
+    font-size: 15px;
+}
+
+.spacing-1 {
+    letter-spacing: 3px;
+} 
+
+.spacing-2 {
+    letter-spacing: 2px;
+} 
+
+.spacing-3 {
+    letter-spacing:-1px;
+}
+
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.none {
+    text-transform: none;
+}
+.indent-text {
+    text-indent: 50px;
+}
+.indention-sample {
+    margin: 0px 150px 0px 150px;
+}
+
+.height-1 {
+    line-height: normal;
+}
+
+.height-2 {
+    line-height: 1.6;
+}
+
+.height-3 {
+    line-height: 80%;
+}
+
+.height-4 {
+    line-height: 200%;
+}
+
+.word-space {
+    word-spacing: 10px;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.big {
+    font-size: 50px;
+}
